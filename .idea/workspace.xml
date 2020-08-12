@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e50f82a0-2898-4932-ad51-0353f24d1ae9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="$USER_HOME$/sdk/go1.14.7" />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1fsPc5dpfMctvtt7Sn541dRDyjD" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunManager" selected="Go Test.motel_test.go">
+    <configuration name="go build motel.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="motel-reservation" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/motel.go" />
+      <package value="motel-reservation" />
+      <directory value="$PROJECT_DIR$" />
+      <option name="run" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestRejectOverbooking in motel-reservation" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="motel-reservation" />
+      <working_directory value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="motel-reservation" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^TestRejectOverbooking$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestValidReservation in motel-reservation" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="motel-reservation" />
+      <working_directory value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="motel-reservation" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^TestValidReservation$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="motel_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="motel-reservation" />
+      <working_directory value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <kind value="FILE" />
+      <package value="motel-reservation" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/motel_test.go" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Go Build.go build motel.go" />
+      <item itemvalue="Go Test.TestValidReservation in motel-reservation" />
+      <item itemvalue="Go Test.motel_test.go" />
+      <item itemvalue="Go Test.TestRejectOverbooking in motel-reservation" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Test.motel_test.go" />
+        <item itemvalue="Go Test.TestRejectOverbooking in motel-reservation" />
+        <item itemvalue="Go Test.TestValidReservation in motel-reservation" />
+        <item itemvalue="Go Build.go build motel.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e50f82a0-2898-4932-ad51-0353f24d1ae9" name="Default Changelist" comment="" />
+      <created>1597003903595</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597003903595</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="501" y="105" key="#GOPATH" timestamp="1597003933586">
+      <screen x="0" y="23" width="1440" height="873" />
+    </state>
+    <state x="501" y="105" key="#GOPATH/0.23.1440.873@0.23.1440.873" timestamp="1597003933586" />
+    <state x="185" y="121" width="1071" height="716" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597008211449">
+      <screen x="0" y="23" width="1440" height="873" />
+    </state>
+    <state x="185" y="121" width="1071" height="716" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.873@0.23.1440.873" timestamp="1597008211449" />
+    <state width="1397" height="196" key="GridCell.Tab.0.bottom" timestamp="1597105337433">
+      <screen x="0" y="23" width="1440" height="873" />
+    </state>
+    <state width="1397" height="196" key="GridCell.Tab.0.bottom/0.23.1440.873@0.23.1440.873" timestamp="1597105337433" />
+    <state width="1397" height="196" key="GridCell.Tab.0.center" timestamp="1597105337431">
+      <screen x="0" y="23" width="1440" height="873" />
+    </state>
+    <state width="1397" height="196" key="GridCell.Tab.0.center/0.23.1440.873@0.23.1440.873" timestamp="1597105337431" />
+    <state width="1397" height="196" key="GridCell.Tab.0.left" timestamp="1597105337430">
+      <screen x="0" y="23" width="1440" height="873" />
+    </state>
+    <state width="1397" height="196" key="GridCell.Tab.0.left/0.23.1440.873@0.23.1440.873" timestamp="1597105337430" />
+    <state width="1397" height="196" key="GridCell.Tab.0.right" timestamp="1597105337432">
+      <screen x="0" y="23" width="1440" height="873" />
+    </state>
+    <state width="1397" height="196" key="GridCell.Tab.0.right/0.23.1440.873@0.23.1440.873" timestamp="1597105337432" />
+    <state width="1397" height="242" key="GridCell.Tab.1.bottom" timestamp="1597091587646">
+      <screen x="0" y="23" width="1440" height="873" />
+    </state>
+    <state width="1397" height="242" key="GridCell.Tab.1.bottom/0.23.1440.873@0.23.1440.873" timestamp="1597091587646" />
+    <state width="1397" height="242" key="GridCell.Tab.1.center" timestamp="1597091587646">
+      <screen x="0" y="23" width="1440" height="873" />
+    </state>
+    <state width="1397" height="242" key="GridCell.Tab.1.center/0.23.1440.873@0.23.1440.873" timestamp="1597091587646" />
+    <state width="1397" height="242" key="GridCell.Tab.1.left" timestamp="1597091587645">
+      <screen x="0" y="23" width="1440" height="873" />
+    </state>
+    <state width="1397" height="242" key="GridCell.Tab.1.left/0.23.1440.873@0.23.1440.873" timestamp="1597091587645" />
+    <state width="1397" height="242" key="GridCell.Tab.1.right" timestamp="1597091587646">
+      <screen x="0" y="23" width="1440" height="873" />
+    </state>
+    <state width="1397" height="242" key="GridCell.Tab.1.right/0.23.1440.873@0.23.1440.873" timestamp="1597091587646" />
+    <state x="222" y="98" key="SettingsEditor" timestamp="1597024566738">
+      <screen x="0" y="23" width="1440" height="873" />
+    </state>
+    <state x="222" y="98" key="SettingsEditor/0.23.1440.873@0.23.1440.873" timestamp="1597024566738" />
+  </component>
+</project>
